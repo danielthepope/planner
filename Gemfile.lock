@@ -169,9 +169,9 @@ GEM
     foundation-rails (5.5.3.2)
       railties (>= 3.1.0)
       sass (>= 3.3.0, < 3.5)
-    gibbon (1.1.5)
-      httparty
-      multi_json (>= 1.9.0)
+    gibbon (3.2.0)
+      faraday (>= 0.9.1)
+      multi_json (>= 1.11.0)
     github-markdown (0.6.9)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
@@ -185,9 +185,6 @@ GEM
     hashie (3.5.7)
     hirb (0.7.3)
     htmlentities (4.3.4)
-    httparty (0.13.7)
-      json (~> 1.8)
-      multi_xml (>= 0.5.2)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     icalendar (2.4.1)
@@ -196,7 +193,7 @@ GEM
       thor (>= 0.14, < 2.0)
     jquery-ui-rails (5.0.5)
       railties (>= 3.2.16)
-    json (1.8.6)
+    json (2.1.0)
     jwt (1.5.6)
     launchy (2.4.3)
       addressable (~> 2.3)
@@ -435,7 +432,7 @@ DEPENDENCIES
   font-awesome-rails
   foreman
   foundation-rails (= 5.5.3.2)
-  gibbon (~> 1.1.5)
+  gibbon (~> 3.2.0)
   github-markdown
   haml
   icalendar
