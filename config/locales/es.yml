@@ -1,4 +1,4 @@
-en:
+es:
   brand: "codebar.io"
   date:
     formats:
@@ -56,7 +56,7 @@ en:
     code_of_conduct: "Code of conduct"
     coach_guide: "Coach guide"
     student_guide: "Student guide"
-    tutorials: "Tutorials"
+    tutorials: "Tutoriales"
     becoming_sponsor: "Becoming a sponsor"
     faq: "FAQ"
     blog: "Blog"
@@ -138,7 +138,7 @@ en:
     unable_attend: "In case you are unable to attend after you RSVP, please make sure you come back and update your attendance as we rely on coaches showing up in order for our workshops to run smoothly."
     food: "PS: There will also be food at the workshop. We always make an effort to have vegetarian, vegan and gluten-free options available. If you have any other dietary requirements, send us email at"
   code_of_conduct:
-    title: "Code of conduct"
+    title: "Código de Conducta"
     summary:
       title: "The Quick Version"
       intro: "Our events are dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of our members in any form. Sexual language and imagery is not appropriate for any of our events, including talks, workshops, parties, Twitter and any other online media. Members violating these rules may be sanctioned or expelled from the event and any future events at the discretion of the organisers."
